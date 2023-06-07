@@ -1,0 +1,22 @@
+{
+  "A": {
+    "id": "1",
+    "description": "description",
+    "fragment": "GROUP_CALL",
+    "imageUrl": "https://pratik97669966.github.io/privacy_policy/New1.gif",
+    "isName": true,
+    "subDescription": "my description",
+    "tittle": "Group call",
+    "webUrl": "https://chat.opentalk.world/"
+  },
+  "B": {
+    "id": "2",
+    "description": "description",
+    "fragment": "GROUP_CHAT",
+    "imageUrl": "https://pratik97669966.github.io/privacy_policy/New2.gif",
+    "isName": true,
+    "subDescription": "join now Chat",
+    "tittle": "Group Chat",
+    "webUrl": "https://chat.opentalk.world/"
+  }
+}
