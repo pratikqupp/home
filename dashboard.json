@@ -1,5 +1,5 @@
 {
-  "A": {
+  "call": {
     "id": "1",
     "description": "description",
     "fragment": "GROUP_CALL",
@@ -9,7 +9,7 @@
     "tittle": "Group call",
     "webUrl": "https://chat.opentalk.world/"
   },
-  "B": {
+  "chat": {
     "id": "2",
     "fragment": "GROUP_CHAT",
     "imageUrl": "https://pratik97669966.github.io/privacy_policy/New2.gif",
