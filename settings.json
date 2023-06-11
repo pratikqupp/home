@@ -1,9 +1,8 @@
 {
-    "audioCallUrl": "https://call.opentalk.world/",
-    "videoCallUrl": "https://pratik97669966.github.io/video-call-web/",
-    "GroupCallUrl": "https://call.opentalk.world/gp",
-    "GroupChatUrl": "https://chat.opentalk.world/",
-    "privateChat": "https://searchcall.up.railway.app",
-    "dashBoardUrl": "https://pratik97669966.github.io/home/dashboard.json"
-  
+        "audioCallUrl":"https://call.opentalk.world/",
+        "videoCallUrl":"https://pratik97669966.github.io/video-call-web/",
+        "groupCallUrl":"https://call.opentalk.world/gp",
+        "groupChatUrl":"https://chat.opentalk.world/",
+        "privateChat":"https://searchcall.up.railway.app",
+        "dashBoardUrl":"https://pratik97669966.github.io/home/dashboard.json"
 }
