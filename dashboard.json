@@ -1,6 +1,10 @@
 {
-  "call": {
+   "secure": {
     "id": "1",
+    "imageUrl": "https://pratik97669966.github.io/roomprivacypolicy/hitoprivacy.gif"
+  },
+  "call": {
+    "id": "2",
     "fragment": "GROUP_CALL",
     "imageUrl": "https://pratik97669966.github.io/privacy_policy/New1.gif",
     "isName": true,
@@ -10,6 +14,14 @@
     "id": "3",
     "fragment": "WEB",
     "imageUrl": "https://pratik97669966.github.io/privacy_policy/New2.gif",
+    "isName": true,
+    "webUrl": "https://chat.opentalk.world/"
+  },
+   "rate us": {
+    "id": "4",
+    "fragment": "WEB",
+     "tab": "play",
+    "imageUrl": "https://pratik97669966.github.io/privacy_policy/share_app.gif",
     "isName": true,
     "webUrl": "https://chat.opentalk.world/"
   }
