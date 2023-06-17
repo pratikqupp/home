@@ -1,19 +1,9 @@
 {
-   "home": {
-    "id": "3",
-    "fragment": "HOME",
-    "imageUrl": "https://storage.googleapis.com/pr-newsroom-wp/1/2020/12/Spotify_Edit_Playlist_Covers_PR-Header_1920%E2%80%8A%C3%97%E2%80%8A733_A-1-1.gif",
-    "isName": true,
-    "webUrl": "https://chat.opentalk.world/"
-  },
   "call": {
     "id": "1",
-    "description": "description",
     "fragment": "GROUP_CALL",
     "imageUrl": "https://pratik97669966.github.io/privacy_policy/New1.gif",
     "isName": true,
-    "subDescription": "my description",
-    "tittle": "Group call",
     "webUrl": "https://chat.opentalk.world/"
   },
  "chat web": {
