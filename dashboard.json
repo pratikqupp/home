@@ -24,5 +24,13 @@
     "imageUrl": "https://pratik97669966.github.io/privacy_policy/share_app.gif",
     "isName": true,
     "webUrl": "https://chat.opentalk.world/"
+  },
+    "share app": {
+    "id": "5",
+    "fragment": "WEB",
+     "tab": "share",
+    "imageUrl": "https://pratik97669966.github.io/privacy_policy/share opentalk.gif",
+    "isName": true,
+    "webUrl": "https://chat.opentalk.world/"
   }
 }
