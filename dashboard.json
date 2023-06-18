@@ -1,10 +1,8 @@
 {
    "secure": {
     "id": "1",
-    "tittle": "Important Notice",
-      "description": "Server Migration: Temporary Interruption of Old Friend List, Ratings, Talking Minutes, and Open Talks Display",
-      "subDescription":"Please be advised that due to our ongoing server migration, you may currently experience a temporary interruption in the visibility of your old friend list, ratings, talking minutes, and open talks. We apologize for any inconvenience caused.Rest assured, we are working diligently to ensure a smooth transition, and within the next two days, you will be able to access all your old data in the new version of our platform.Thank you for your patience and understanding during this transition period. We appreciate your continued support.Please note that this revised text provides clearer information about the server migration and the expected timeframe for the data to become available again in the new version."
-  },
+    "imageUrl": "https://freeimage.host/i/H6sBTkF"
+   },
   "call": {
     "id": "2",
     "fragment": "GROUP_CALL",
