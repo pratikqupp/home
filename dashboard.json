@@ -3,6 +3,13 @@
     "id": "1",
     "imageUrl": "https://iili.io/H6sBTkF.jpg"
    },
+    "customer care": {
+    "id": "11",
+    "fragment": "WEB",
+    "imageUrl": "https://iili.io/H6slnt4.md.jpg",
+    "isName": true,
+    "webUrl": "https://tawk.to/chat/63ca28ddc2f1ac1e202ea7d1/1gn6qv9l4"
+  },
   "call": {
     "id": "2",
     "fragment": "GROUP_CALL",
