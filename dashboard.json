@@ -1,13 +1,7 @@
-{"tittle": {
+{
+    "tittle": {
     "id": "11",
     "imageUrl": "https://pratik97669966.github.io/roomprivacypolicy/hitoprivacy.gif"
-  },
-    "customer care": {
-    "id": "11",
-    "fragment": "WEB",
-    "imageUrl": "https://iili.io/H6slnt4.md.jpg",
-    "isName": true,
-    "webUrl": "https://tawk.to/chat/63ca28ddc2f1ac1e202ea7d1/1gn6qv9l4"
   },
   "call": {
     "id": "2",
@@ -38,5 +32,12 @@
     "imageUrl": "https://pratik97669966.github.io/privacy_policy/share opentalk.gif",
     "isName": true,
     "webUrl": "https://chat.opentalk.world/"
+  },
+    "customer care": {
+    "id": "11",
+    "fragment": "WEB",
+    "imageUrl": "https://iili.io/H6slnt4.md.jpg",
+    "isName": true,
+    "webUrl": "https://tawk.to/chat/63ca28ddc2f1ac1e202ea7d1/1gn6qv9l4"
   }
 }
