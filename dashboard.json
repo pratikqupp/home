@@ -4,12 +4,12 @@
     "imageUrl": "https://pratik97669966.github.io/roomprivacypolicy/hitoprivacy.gif"
   },
      "old data": {
-    "id": "12",
-     "fragment": "WEB",
-     "tab": "fff",
-    "imageUrl": "https://iili.io/HPxVgn4.gif",
-    "isName": false,
-    "webUrl": "https://forms.gle/hdeYDgB3QKeVsyBbA"
+     "id": "14",
+    "fragment": "WEB",
+     "tab": "play",
+    "imageUrl": "https://pratik97669966.github.io/privacy_policy/rate_us_image2.png",
+    "isName": true,
+    "webUrl": "https://chat.opentalk.world/"
   },
   "call": {
     "id": "2",
@@ -22,14 +22,6 @@
     "id": "3",
     "fragment": "WEB",
     "imageUrl": "https://pratik97669966.github.io/privacy_policy/New2.gif",
-    "isName": true,
-    "webUrl": "https://chat.opentalk.world/"
-  },
-   "rate us": {
-    "id": "4",
-    "fragment": "WEB",
-     "tab": "play",
-    "imageUrl": "https://pratik97669966.github.io/privacy_policy/share_app.gif",
     "isName": true,
     "webUrl": "https://chat.opentalk.world/"
   },
