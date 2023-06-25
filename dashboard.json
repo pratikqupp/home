@@ -1,12 +1,5 @@
 {
-     "old data": {
-     "id": "14",
-    "fragment": "WEB",
-     "tab": "play",
-    "imageUrl": "https://pratik97669966.github.io/privacy_policy/rate_us_image.png",
-    "isName": true,
-    "webUrl": "https://chat.opentalk.world/"
-  },
+
   "call": {
     "id": "2",
     "fragment": "GROUP_CALL",
@@ -28,12 +21,5 @@
     "imageUrl": "https://pratik97669966.github.io/privacy_policy/share opentalk.gif",
     "isName": true,
     "webUrl": "https://chat.opentalk.world/"
-  },
-    "customer care": {
-    "id": "11",
-    "fragment": "WEB",
-    "imageUrl": "https://iili.io/H6slnt4.md.jpg",
-    "isName": true,
-    "webUrl": "https://tawk.to/chat/63ca28ddc2f1ac1e202ea7d1/1gn6qv9l4"
   }
 }
