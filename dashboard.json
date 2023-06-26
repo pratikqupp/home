@@ -1,5 +1,12 @@
 {
-
+     "new feature": {
+     "id": "14",
+    "fragment": "WEB",
+     "tab": "tab",
+     "imageUrl": "https://iili.io/HPiQmiB.gif",
+    "isName": true,
+    "webUrl": "https://forms.gle/ijeoqNecUBmV7uAj6"
+  },
   "call": {
     "id": "2",
     "fragment": "GROUP_CALL",
