@@ -1,17 +1,4 @@
 {
-     "new feature": {
-     "id": "14",
-    "fragment": "WEB",
-     "tab": "tab",
-     "imageUrl": "https://iili.io/HPiQmiB.gif",
-    "isName": true,
-    "webUrl": "https://forms.gle/ijeoqNecUBmV7uAj6"
-  },
-      "new cc": {
-     "id": "14",
-           "tittle": "New features will available on 27 Jun",
-           "subDescription":"1.Friend online/typing/offline. 2. call history (send friend request after call). 3 delete private chat"
-  },
   "call": {
     "id": "2",
     "fragment": "GROUP_CALL",
