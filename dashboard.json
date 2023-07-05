@@ -1,7 +1,10 @@
 {
   "international": {
-    "id": "21",
-    "tittle":"International calls available"
+    "id": "333",
+    "fragment": "WEB",
+    "imageUrl": "https://i.postimg.cc/sXhmsN29/mag.png",
+    "isName": false,
+    "webUrl": "https://pratik97669966.github.io/English_learn/"
      },
   "call": {
     "id": "2",
