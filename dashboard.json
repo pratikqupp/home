@@ -1,24 +1,9 @@
-{
-  "call": {
-    "id": "2",
-    "fragment": "GROUP_CALL",
-    "imageUrl": "https://pratik97669966.github.io/privacy_policy/New1.gif",
-    "isName": true,
-    "webUrl": "https://chat.opentalk.world/"
-  },
- "chat web": {
-    "id": "3",
-    "fragment": "WEB",
-    "imageUrl": "https://pratik97669966.github.io/privacy_policy/New2.gif",
-    "isName": true,
-    "webUrl": "https://chat.opentalk.world/"
-  },
-    "share app": {
+{"update": {
     "id": "5",
+  "tittle": "Update app now",
     "fragment": "WEB",
-     "tab": "share",
+     "tab": "play",
     "imageUrl": "https://pratik97669966.github.io/privacy_policy/share opentalk.gif",
     "isName": true,
     "webUrl": "https://chat.opentalk.world/"
-  }
-}
+}}
