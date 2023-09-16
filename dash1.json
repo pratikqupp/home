@@ -19,6 +19,13 @@
     "isName": true,
     "webUrl": "https://chat.opentalk.world/"
   },
+      "international": {
+    "id": "333",
+    "fragment": "WEB",
+    "imageUrl": "https://i.postimg.cc/vHcrsKS1/mag.png",
+    "isName": false,
+    "webUrl": "https://pratik97669966.github.io/English_learn/"
+     },
     "share app": {
     "id": "5",
     "fragment": "WEB",
