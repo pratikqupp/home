@@ -1,8 +1,8 @@
 {
-        "audioCallUrl":"https://call.opentalk.world/",
+        "audioCallUrl":"https://callopentalk.up.railway.app/",
         "videoCallUrl":"https://pratik97669966.github.io/video-call-web/",
-        "groupCallUrl":"https://call.opentalk.world/gp",
-        "groupChatUrl":"https://chat.opentalk.world/",
+        "groupCallUrl":"https://callopentalk.up.railway.app/d/gp",
+        "groupChatUrl":"chatopentalk.up.railway.app",
         "privateChat":"https://opentalk-main-server.up.railway.app",
         "dashBoardUrl":"https://pratik97669966.github.io/home/dash1.json",
         "homeInviteUrl":"https://invite-call.onrender.com/",
